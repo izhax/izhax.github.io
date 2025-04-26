@@ -11,7 +11,7 @@ params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     # author: ["Me", "You"] # multiple authors
     DateFormat: "January 2, 2006"
-    defaultTheme: auto # dark, light
+    defaultTheme: dark # dark, light
     disableThemeToggle: false
 
     ShowReadingTime: true

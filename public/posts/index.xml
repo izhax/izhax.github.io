@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Izhar&#39;s Blog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Izhar&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 06 Apr 2025 18:08:10 +0530</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Senior Cloud Security Engineer Roadmap (Test)</title>
+      <link>http://localhost:1313/posts/thirdpost/</link>
+      <pubDate>Sun, 06 Apr 2025 18:08:10 +0530</pubDate>
+      
+      <guid>http://localhost:1313/posts/thirdpost/</guid>
+      <description>&lt;p&gt;This roadmap outlines eight core focus areas to elevate your cloud security practice in roughly 2–3 months, depending on how much time you dedicate each week.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;1-build-and-get-handson-multicloud-projects&#34;&gt;1. Build and Get Hands‑On Multi‑Cloud Projects&lt;/h2&gt;
+&lt;p&gt;Don’t just read about multi‑cloud—get your hands dirty. Spin up sample workloads across AWS, Azure, and GCP: deploy a containerized app in EKS, AKS, and GKE, then implement centralized logging and alerting. Experiment with hybrid architectures by keeping sensitive data on a private OpenStack or VMware instance while offloading analytics to public clouds. You’ll learn to avoid vendor lock‑in, optimize costs with spot instances or preemptible VMs, and build resilient failover patterns.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>This roadmap outlines eight core focus areas to elevate your cloud security practice in roughly 2–3 months, depending on how much time you dedicate each week.</p>
+<hr>
+<h2 id="1-build-and-get-handson-multicloud-projects">1. Build and Get Hands‑On Multi‑Cloud Projects</h2>
+<p>Don’t just read about multi‑cloud—get your hands dirty. Spin up sample workloads across AWS, Azure, and GCP: deploy a containerized app in EKS, AKS, and GKE, then implement centralized logging and alerting. Experiment with hybrid architectures by keeping sensitive data on a private OpenStack or VMware instance while offloading analytics to public clouds. You’ll learn to avoid vendor lock‑in, optimize costs with spot instances or preemptible VMs, and build resilient failover patterns.</p>
+<figure>
+    <img loading="lazy" src="/images/mountain.png"
+         alt="A mountain"/> <figcaption>
+            <p>This is a white kitten</p>
+        </figcaption>
+</figure>
+
+<h2 id="2-ai-security-upskilling">2. AI Security Upskilling</h2>
+<p>Cloud platforms now embed AI at every layer of security. Start by exploring AWS GuardDuty’s ML‑powered anomaly detection, Azure Sentinel’s built‑in analytics workbooks, and GCP Chronicle’s threat‑hunting notebooks. Train, validate, and monitor custom ML models—ensuring they don’t drift or introduce bias—and integrate them into your SIEM or SOAR workflows. Finally, practice explainable AI techniques so you can justify detections to auditors and stakeholders.</p>
+<h2 id="3-businessspecific-threat-detection">3. Business‑Specific Threat Detection</h2>
+<p>Generic alerts create fatigue. Conduct a threat‑modeling workshop: map your organization’s crown‑jewel assets against MITRE ATT&amp;CK cloud techniques, then write custom detection rules (e.g., KQL in Azure Sentinel or Sigma for cross‑platform SIEMs). Prioritize alerts based on potential impact—such as data exfiltration from a critical database—so your SOC focuses on the signals that matter. Refine these detections through regular tuning sessions.</p>
+<p>¸</p>
+<h2 id="4-integrating-with-existing-cybersecurity-products">4. Integrating with Existing Cybersecurity Products</h2>
+<p>Your cloud security stack should complement—not replace—your existing tools. Identify coverage gaps by mapping CSPM, workload protection, and identity controls against your risk register. Use APIs or native connectors to feed cloud alerts into your SOAR platform or ticketing system. Strengthen identity controls by integrating cloud identity with your CIAM/PAM solution and enforcing just‑in‑time access. This holistic approach reduces blind spots and streamlines incident response.</p>
+<h2 id="5-adopt-a-productmindset">5. Adopt a Product‑Mindset</h2>
+<p>Think of security controls as products with lifecycles: design them with developer ergonomics in mind, launch with clear documentation and onboarding guides, and gather feedback through surveys or support tickets. Track metrics like policy adoption rate, mean time to remediate drift, and false‑positive ratios. Hold regular product reviews with Dev, Sec, and Ops stakeholders to iterate on features and prioritize the roadmap based on real user pain points.</p>
+<h2 id="6-building-security-automation">6. Building Security Automation</h2>
+<p>Automate everything you can codify. Embed SAST/DAST scans in your GitHub Actions or Azure Pipelines, enforce Terraform Cloud Sentinel policies on pull requests, and deploy auto‑remediation playbooks via AWS Lambda or Azure Functions. Build drift‑detection scripts that run on a schedule, automatically correcting misconfigurations or opening tickets when human approval is needed. This “Security as Code” approach scales your impact and frees you to focus on proactive hunting.</p>
+<h2 id="7-soft-skills">7. Soft Skills</h2>
+<p>Technical solutions fail without people. Hone your ability to translate technical risk into business impact—use analogies, storytelling, and clear visuals. Run tabletop exercises and cross‑team workshops to build empathy and shared understanding. Practice concise executive reporting: summarize findings, risks, and recommended actions in one page. These soft skills accelerate buy‑in and ensure your security efforts aren’t siloed.</p>
+<h2 id="8-work-on-real-cloud-security-projects-with-seniors">8. Work on Real Cloud Security Projects with Seniors</h2>
+<p>Theory is no substitute for experience. Pair‑program on live red/blue‑team drills, shadow senior engineers during incident response and architecture reviews, and participate in post‑mortems and retrospectives. Ask questions about why certain design decisions were made, and contribute improvements. This mentorship cements best practices, sharpens your judgment, and builds the network you need to tackle complex cloud challenges.</p>
+<hr>
+<p><em>Dedicate regular blocks of time each week to one or two focus areas, and you’ll have a robust, modern cloud security practice in just a few months.</em></p>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

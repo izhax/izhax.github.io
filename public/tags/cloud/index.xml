@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cloud on Izhar&#39;s Blog</title>
+    <link>http://localhost:1313/tags/cloud/</link>
+    <description>Recent content in Cloud on Izhar&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 06 Apr 2025 18:08:10 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Senior Cloud Security Engineer Roadmap</title>
+      <link>http://localhost:1313/posts/thirdpost/</link>
+      <pubDate>Sun, 06 Apr 2025 18:08:10 +0530</pubDate>
+      
+      <guid>http://localhost:1313/posts/thirdpost/</guid>
+      <description>&lt;p&gt;The whole roadmap will take about 2 to 3 months depending on how much time you dedicate&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Build and get hands on Multi Cloud Projects&lt;/strong&gt; as more companies are adopting Multi cloud approach, and having an understanding of each of the major clouds will set you apart&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI Security upskilling&lt;/strong&gt;, you need to be aware of what AI capabilities all of the major cloud platforms have.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Business Specific Threat detection,&lt;/strong&gt; you need to learn to build threat detections for business specific needs and prioritizing them&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrating with Existing Cybersecurity Products&lt;/strong&gt;, for every threat you identify in your cloud security tool, there is an angle of risk, compliance, security operations and what not
+&lt;ul&gt;
+&lt;li&gt;What detection gaps you have&lt;/li&gt;
+&lt;li&gt;Integrate existing security products&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Mindset should be more of how do you complete efficient and robust products, and not merely focusing on completing tasks&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Building Security Automation&lt;/strong&gt;, leverage IaC and CI/CD to automate your tasks&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Soft Skills&lt;/strong&gt;, You need to be able to communicate with a wide range of teams in order to collaborate and expand&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Working on Real Cloud Security Projects with Other Senior&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;azure-security-assessments-using-resource-graph-explorer&#34;&gt;Azure Security Assessments using Resource Graph Explorer&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/siigil/azure-kql-demo&#34;&gt;GitHub - siigil/azure-kql-demo: Demo: Review your Azure security with the power of Resource Graph + KQL!&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>The whole roadmap will take about 2 to 3 months depending on how much time you dedicate</p>
+<ul>
+<li><strong>Build and get hands on Multi Cloud Projects</strong> as more companies are adopting Multi cloud approach, and having an understanding of each of the major clouds will set you apart</li>
+<li><strong>AI Security upskilling</strong>, you need to be aware of what AI capabilities all of the major cloud platforms have.</li>
+<li><strong>Business Specific Threat detection,</strong> you need to learn to build threat detections for business specific needs and prioritizing them</li>
+<li><strong>Integrating with Existing Cybersecurity Products</strong>, for every threat you identify in your cloud security tool, there is an angle of risk, compliance, security operations and what not
+<ul>
+<li>What detection gaps you have</li>
+<li>Integrate existing security products</li>
+</ul>
+</li>
+<li>Mindset should be more of how do you complete efficient and robust products, and not merely focusing on completing tasks</li>
+<li><strong>Building Security Automation</strong>, leverage IaC and CI/CD to automate your tasks</li>
+<li><strong>Soft Skills</strong>, You need to be able to communicate with a wide range of teams in order to collaborate and expand</li>
+<li><strong>Working on Real Cloud Security Projects with Other Senior</strong></li>
+</ul>
+<h2 id="azure-security-assessments-using-resource-graph-explorer">Azure Security Assessments using Resource Graph Explorer</h2>
+<p><a href="https://github.com/siigil/azure-kql-demo">GitHub - siigil/azure-kql-demo: Demo: Review your Azure security with the power of Resource Graph + KQL!</a></p>
+<p><a href="https://learn.microsoft.com/en-us/azure/governance/resource-graph/samples/advanced?tabs=azure-cli">Advanced query samples - Azure Resource Graph | Microsoft Learn</a></p>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

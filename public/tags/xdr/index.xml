@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>XDR on Izhar&#39;s Blog</title>
+    <link>http://localhost:1313/tags/xdr/</link>
+    <description>Recent content in XDR on Izhar&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 26 Apr 2025 17:59:01 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/xdr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unified XDR Handbook Overview</title>
+      <link>http://localhost:1313/posts/xdrhandbook/</link>
+      <pubDate>Sat, 26 Apr 2025 17:59:01 +0530</pubDate>
+      
+      <guid>http://localhost:1313/posts/xdrhandbook/</guid>
+      <description>&lt;h2 id=&#34;introduction-and-context&#34;&gt;Introduction and Context&lt;/h2&gt;
+&lt;p&gt;The theme of the book and the concepts are explained by having a target of enhancing security and digital transformation. High Tech Rapid Solutions has a staff of over 60k. The company is trying to modernize their security operations due to COVID and having their employees to work remotely instead of traditional offices. They now require a new security monitoring strategy to address their security needs. The company has a SOC but they manage it themselves&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h2 id="introduction-and-context">Introduction and Context</h2>
+<p>The theme of the book and the concepts are explained by having a target of enhancing security and digital transformation. High Tech Rapid Solutions has a staff of over 60k. The company is trying to modernize their security operations due to COVID and having their employees to work remotely instead of traditional offices. They now require a new security monitoring strategy to address their security needs. The company has a SOC but they manage it themselves</p>
+<h4 id="current-environment">Current Environment</h4>
+<ol>
+<li>Multi cloud leveraging both Azure and AWS for infra needs</li>
+<li>Hybrid cloud having both on prem and cloud resources in order to maximize their compliance, while capitalizing on scalability and cost effectiveness</li>
+<li>Hybrid Identity architecture</li>
+<li>Entra ID to collaborate with external partners B2B collaboration with cross tenant capabilities</li>
+<li>Devices consists of 80% Windows and 20% mac, along with Android and iOS</li>
+<li>Majority of servers are windows based and the rest are linux</li>
+<li>Lagacy applications onprem while modern apps on cloud native technologies</li>
+<li>An IoT and OT environment to optimize operations. The main challenge it lacks is the lack of security monitoring and visibility</li>
+</ol>
+<h3 id="security-challenges">Security Challenges</h3>
+<ul>
+<li>Isolated products result in lack of visibility</li>
+<li>Lack of centralized monitoring and analytics</li>
+<li>Lack of a unified platform that impacts the agility of the incident response process. They use a legacy SIEM and are keen to move to a modern SIEM with a cloud based solution</li>
+<li>Regulatory Compliances in terms of data protection, access controls and security audits</li>
+</ul>
+<h3 id="management-concerns">Management Concerns</h3>
+<ul>
+<li>Lack of visibility and control of IoT/OT environment</li>
+<li>Lack of visibility on internet exposed digital assets</li>
+<li>Lack of a threat intelligence data feed</li>
+</ul>
+<h3 id="challenges-emphasized-by-the-security-team">Challenges emphasized by the Security team</h3>
+<ul>
+<li>Suspicious activity and confidential emails getting leaked</li>
+<li>Struggling to gain visibility on vulnerabilities of the incidents</li>
+<li>Limited resources that leads to incident response challenges</li>
+<li>Long hours fulfilling management ad hoc reporting needs</li>
+<li>Absence of a defined process and a dedicated vulnerability management team</li>
+<li>Unauthorised users accessing HR apps and services</li>
+<li>Team needs training for the new technologies</li>
+<li>Too many false positives addressing these issues took a lot of time</li>
+<li>Lack of monitoring on On prem identities</li>
+<li>Lack of security posture management for both on prem and cloud resources</li>
+<li>Failing to identify possible attack paths to cloud resources</li>
+</ul>
+<h3 id="concerns-by-ciso">Concerns by CISO</h3>
+<ul>
+<li>Attacks on m365 collaboration workloads</li>
+<li>Ransomware Attacks</li>
+<li>Business Email compromise Attacks</li>
+</ul>
+<figure>
+    <img loading="lazy" src="/images/mountain.png"
+         alt="A mountain"/> <figcaption>
+            <p>This is a white kitten</p>
+        </figcaption>
+</figure>
+
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

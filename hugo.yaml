@@ -48,11 +48,11 @@ params:
 
     socialIcons:
         - name: linkedin
-          url: "https://linkedin.com/"
+          url: "https://www.linkedin.com/in/izharahmedsyed/"
         - name: twitter
-          url: "https://twitter.com/"
+          url: "https://x.com/abuabdr"
         - name: github
-          url: "https://github.com/"
+          url: "https://github.com/izhax"
 
     analytics:
         google:

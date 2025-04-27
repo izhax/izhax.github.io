@@ -22,8 +22,8 @@ cover:
   image: /images/distortion.jpg
   # can also paste direct link from external site
   # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
-  alt: "CSE"
-  caption: "CSE"
+  alt: ""
+  caption: ""
   hidden: false
   hiddenInList: false
   hiddenInSingle: false
@@ -39,7 +39,7 @@ Don’t just read about multi‑cloud—get your hands dirty. Spin up sample wor
 {{< figure
   src=/images/mountain.png
   alt="A mountain"
-  caption="This is a white kitten"
+  caption=""
   loading=lazy
 >}}
 

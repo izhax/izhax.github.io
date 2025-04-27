@@ -11,8 +11,10 @@ params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     # author: ["Me", "You"] # multiple authors
     DateFormat: "January 2, 2006"
-    defaultTheme: dark # dark, light
+    defaultTheme: auto # dark, light
     disableThemeToggle: false
+    ThemeAutoSwitch: true
+    languageAltTitle: "Arabic"
 
     ShowReadingTime: true
     ShowShareButtons: true
@@ -26,6 +28,7 @@ params:
     showtoc: true
     tocopen: true
     tocside: right
+
 
 # Customizing FuseJS Options 
 params:
@@ -47,11 +50,11 @@ params:
         
 
     socialIcons:
-        - name: linkedin
+        - name: linkedin-simple
           url: "https://www.linkedin.com/in/izharahmedsyed/"
-        - name: twitter
+        - name: twitter-simple
           url: "https://x.com/abuabdr"
-        - name: github
+        - name: github-simple
           url: "https://github.com/izhax"
 
     analytics:
@@ -66,11 +69,16 @@ params:
         hidden: true # hide everywhere but not in structured data
         hiddenInList: true # hide on list pages and home
         hiddenInSingle: true # hide on single page
+        responsiveImages: true # responsive images
 
 # This is the menu for categories, tags, Archives and Search
 
 menu:
     main:
+        - identifier: blogs
+          name: Blog
+          url: /blogs/
+          weight: 10
         - identifier: tags
           name: Tags
           url: /tags/

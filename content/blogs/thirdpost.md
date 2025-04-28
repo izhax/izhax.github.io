@@ -36,14 +36,6 @@ This roadmap outlines eight core focus areas to elevate your cloud security prac
 ## 1. Build and Get Hands‑On Multi‑Cloud Projects  
 Don’t just read about multi‑cloud—get your hands dirty. Spin up sample workloads across AWS, Azure, and GCP: deploy a containerized app in EKS, AKS, and GKE, then implement centralized logging and alerting. Experiment with hybrid architectures by keeping sensitive data on a private OpenStack or VMware instance while offloading analytics to public clouds. You’ll learn to avoid vendor lock‑in, optimize costs with spot instances or preemptible VMs, and build resilient failover patterns.
 
-{{< figure
-  src=/images/mountain.png
-  alt="A mountain"
-  caption=""
-  loading=lazy
->}}
-
-
 ## 2. AI Security Upskilling  
 Cloud platforms now embed AI at every layer of security. Start by exploring AWS GuardDuty’s ML‑powered anomaly detection, Azure Sentinel’s built‑in analytics workbooks, and GCP Chronicle’s threat‑hunting notebooks. Train, validate, and monitor custom ML models—ensuring they don’t drift or introduce bias—and integrate them into your SIEM or SOAR workflows. Finally, practice explainable AI techniques so you can justify detections to auditors and stakeholders.
 
